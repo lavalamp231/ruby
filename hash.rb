@@ -1,7 +1,7 @@
 states = {
-	"first_name" => "andrew", 
-	"last_name" => "simons",
-	"middle_name" => "wayne"
+	"first_name" => "go", 
+	"last_name" => "away",
+	"middle_name" => "sir"
 }
 
 puts states
